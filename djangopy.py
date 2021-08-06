@@ -10,3 +10,5 @@
 
 #############  ABOUT SETTINGS  ################
 # python manage.py migrate - database of django
+# ip + /admin - logging to admin-site panel
+# python manage.py createsuperuser - new superuser (admin)
